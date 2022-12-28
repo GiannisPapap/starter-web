@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 This is a new website
 
 ##How To Contribute
+
+###COPYRIGHT
+Git.Training
