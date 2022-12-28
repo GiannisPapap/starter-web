@@ -13,5 +13,7 @@ This is a new website
 
 ##How To Contribute
 
+Please fork this repository
+
 ###COPYRIGHT
 Git.Training
