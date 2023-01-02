@@ -16,4 +16,4 @@ This is a new website
 Please fork this repository
 
 ###COPYRIGHT
-Git.Training
+Git.Training All rights reserved
